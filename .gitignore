@@ -1,0 +1,4 @@
+.vscode
+env/
+flaskblog/__pycache__
+.env
